@@ -18,7 +18,7 @@ scoping, overlapping instances, first-class instances, and higher-order rules,
 while remaining type safe, coherent and stable under substitution.
 
 Test download button:
-[slides/cochis.pdf]({{file name='slides/cochis.pdf'}})
+[Slides](slides/cochis.pdf)
 
 Another way for downloading:
 <a href="slides/cochis.pdf" download>Slides</a>
