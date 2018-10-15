@@ -44,7 +44,7 @@ recursion schemes.
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
 ### Kuifje : Quantified Information Flow with Monads in Haskell - Tom Schrijvers
-> 21 October 2018
+> 21 September 2018
 
 Programs that manipulate private information must usually release part of
 their secret to achieve anything useful. Yet, unintended leaks, which could
