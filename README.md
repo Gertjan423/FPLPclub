@@ -2,7 +2,7 @@
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
 ### Cochis - Klara Mar
-> 12 October 2018
+> 12 October 2018 : [Slides](slides/cochis.pdf)
 
 Implicit Progamming (IP) mechanisms infer values by type-directed resolution, 
 making programs more compact and easier to read. Examples of IP mechanisms include 
@@ -18,12 +18,6 @@ of the implicit calculus that offers flexibility while preserving two key proper
 coherence and stability of substitutions. COCHIS supports polymorphism, local 
 scoping, overlapping instances, first-class instances, and higher-order rules, 
 while remaining type safe, coherent and stable under substitution.
-
-Test download button:
-[Slides](slides/cochis.pdf)
-
-Another way for downloading:
-<a href="slides/cochis.pdf" download>Slides</a>
 
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
