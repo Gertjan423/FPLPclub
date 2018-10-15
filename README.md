@@ -1,6 +1,7 @@
 ## FPLP Club
 
 ### Cochis - Klara Mar
+> 12 October 2018
 
 Implicit Progamming (IP) mechanisms infer values by type-directed resolution, 
 making programs more compact and easier to read. Examples of IP mechanisms include 
