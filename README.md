@@ -1,6 +1,20 @@
 ## FPLP Club
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
+### Pipes and Orthogonal Scott-Encodings - Ruben Pieters
+> 26 October 2018
+
+Ruben talks about his paper on pipes and orthogonal Scott-encodings.
+
+
+<!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
+### Domain Theory - Alexander Vandenbroucke
+> 19 October 2018
+
+Alexander talks about domain theory.
+
+
+<!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
 ### Cochis - Klara Mar
 > 12 October 2018 : [Slides](slides/cochis.pdf)
 
