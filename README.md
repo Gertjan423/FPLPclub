@@ -36,15 +36,14 @@ while remaining type safe, coherent and stable under substitution.
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
 ### Folds - Tom Schrijvers
-> 4 October 2018
+> 4 October 2018 : [Slides1](slides/universe_of_types.pdf), [Slides2](slides/bringing_functions_into_the_fold)
 
-This seminar is an introduction to fold/build-fusion, deforestation and other 
-recursion schemes.
+This seminar is an introduction to datatype generic programming and structural recursion.
 
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
 ### Kuifje : Quantified Information Flow with Monads in Haskell - Tom Schrijvers
-> 21 September 2018
+> 21 September 2018 : [Slides](slides/qif.pdf)
 
 Programs that manipulate private information must usually release part of
 their secret to achieve anything useful. Yet, unintended leaks, which could
