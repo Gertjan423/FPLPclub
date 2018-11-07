@@ -17,10 +17,12 @@ to succesfully solve this age-old problem!
 
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
-### Pipes and Orthogonal Scott-Encodings - Ruben Pieters
-> 26 October 2018
+### Faster Coroutine Pipelines: A Reconstruction - Ruben Pieters
+> 26 October 2018 [Slides](slides/Faster_Coroutine_Pipelines_A_Reconstruction.pdf)
 
-Ruben talks about his paper on pipes and orthogonal Scott-encodings.
+Stream processing is a programming approach for efficiently handling large streams of data. It is typically used in big data applications, and is one of the reasons for its popularity. Two prominent Haskell stream processing libraries are pipes and conduit.
+
+This presentation presents the building blocks of a simple stream processing library. Then, we look further into the details of an alternate representation for these building blocks. This alternate representation is the three-continuation approach from Spivey, which in turn is based on a very similar representation by Shivers and Might. This different representation enables an efficient definition of the merge operator. 
 
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
