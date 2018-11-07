@@ -1,6 +1,22 @@
 ## FPLP Club
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
+### Proving Haskell Coherent - Gert-Jan Bottu
+> 9 November 2018
+
+Haskell’s elaboration-based type class resolution is generally nondeterministic: 
+there can be multiple ways to satisfy a wanted constraint in terms of global 
+instances and locally given constraints. Coherence is the key property that keeps
+this sane; it guarantees that, despite the nondeterminism, programs still behave 
+predictably. Even though elaboration-based resolution is generally assumed 
+coherent, this property has never formally been proven.
+
+This talk gives a detailed introduction to Haskell's dictionary-based type class 
+resolution, explains the need for a coherent elaboration and shows how we managed 
+to succesfully solve this age-old problem!
+
+
+<!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
 ### Pipes and Orthogonal Scott-Encodings - Ruben Pieters
 > 26 October 2018
 
