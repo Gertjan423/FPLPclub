@@ -2,7 +2,7 @@
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
 ### Proving Haskell Coherent - Gert-Jan Bottu
-> 9 November 2018
+> 9 November 2018 [Slides](slides/haskell_coherence_v1.pdf) Updated Slides (coming soon)
 
 Haskell’s elaboration-based type class resolution is generally nondeterministic: 
 there can be multiple ways to satisfy a wanted constraint in terms of global 
