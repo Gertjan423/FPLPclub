@@ -1,6 +1,14 @@
 ## FPLP Club
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
+### Reasoning and Derivation of Monadic Programs - Koen Pauwels
+> 23 November 2018 [Slides](slides/monad-reasoning-slides.pdf)
+
+One of the properties that sets (pure) functional programming apart from the imperative paradigm is its amenability to equational reasoning. Thanks to our ability to manage side effects in a rigorous manner with monads, we can also apply equational reasoning techniques to effectful programs.
+
+This talk will present the functional-pearl-under-construction "Reasoning and Derivation of Monadic Programs", which aims to "develop theorems and patterns that are useful for reasoning about monadic programs". 
+
+<!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
 ### Proving Haskell Coherent - Gert-Jan Bottu
 > 9 November 2018 [Slides](slides/haskell_coherence_v1.pdf) Updated Slides (coming soon)
 
