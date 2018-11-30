@@ -1,7 +1,7 @@
 ## FPLP Club
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
-### Faster Coroutine Pipelines: A Reconstruction - Ruben Pieters
+### TypeScript & Dependent Typing - Ruben Pieters
 > 30 November 2018 [Slides](slides/Typescript_Dependent_Typing.pdf)
 
 TypeScript provides a static type system on top of JavaScript. Recently TypeScript has added more and more features operating at the type level. These features enable various computations at the type level. However, the experience of the TypeScript programmer is lacking in various areas using these features. This talk explores some of the type level features and showcases some shortcomings.
