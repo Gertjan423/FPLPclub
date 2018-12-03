@@ -15,6 +15,17 @@ One of the properties that sets (pure) functional programming apart from the imp
 This talk will present the functional-pearl-under-construction "Reasoning and Derivation of Monadic Programs", which aims to "develop theorems and patterns that are useful for reasoning about monadic programs". 
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
+### Parametricity and Free Theorems - Tom Schrijvers
+> 15 November 2018 [Slides](slides/parametricity.pdf)
+
+The logical relation of System F is a very powerful property of well-typed terms
+that allows us to draw many non-obvious conclusions, the so-called theorems,
+by only looking at their type.
+
+In this talk I illustrate how the logical relation can be used to derive
+several free theorems.
+
+<!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
 ### Proving Haskell Coherent - Gert-Jan Bottu
 > 9 November 2018 [Slides](slides/haskell_coherence_v1.pdf) Updated Slides (coming soon)
 
