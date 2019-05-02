@@ -1,6 +1,14 @@
 ## FPLP Club
 
 <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
+### Tabling and Parsing - Alexander Vandenbroucke
+> 02 May 2019
+
+Implementing the Earley parsing algorithm using tabling in Haskell.
+
+[Slides](slides/tabling-parsing.pdf)
+
+<!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
 ### TypeScript & Dependent Typing - Ruben Pieters
 > 30 November 2018 [Slides](slides/Typescript_Dependent_Typing.pdf)
 
